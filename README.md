@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Anastasia
+#### Development
 
-<!--
-**Anastasia9595/Anastasia9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Anastasia from Germany, and I am Developer. I really enjoy learning languages and frameworks like Flutter. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+
+* 👩‍💻 C#
+* 📱 Flutter
+* 💻 HTML, CSS
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anastasia9595)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'>](https://www.xing.com/profile/Anastasia_Osipisen/cv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](Anastasia9595@googlemail.com)  
