@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Anastasia
 #### Development
 
-
+<img src='https://github.com/Anastasia9595/Anastasia9595/blob/main/developer.png' alt='logo' height='200' />
 
 I'm Anastasia from Germany, and I am Developer. I really enjoy learning languages and frameworks like Flutter. 
 
