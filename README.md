@@ -1,11 +1,51 @@
 <h1 align="center">Hi 👋, I'm Anastasia</h1>
-<h3 align="center">A passionate developer from Germany</h3>
-
-
-<img align="right" src='https://github.com/Anastasia9595/Anastasia9595/blob/main/developer.png' alt='logo' height='200' />
-<p align="left">
+<h3 align="center">Frontend & Mobile Developer from Germany · Angular · Flutter · TypeScript</h3>
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Kassel-open_to_remote-2ea44f?style=flat-square" alt="Kassel, open to remote" />
+  <img src="https://img.shields.io/badge/💼_open_to-frontend_&_mobile_roles-2ea44f?style=flat-square" alt="Open to frontend and mobile roles" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
+---
+ 
+<img align="right" src="output/bonsai.gif" width="220" alt="my git-bonsai" />
+###🌱 About me
+ 
+- 💻 **Fachinformatikerin für Anwendungsentwicklung (IHK)** – I came into development through a retraining program and never looked back
+- 🏢 Built logistics web apps for an ERP system (**Angular** frontend, Progress ABL backend)
+- 🎨 Currently building mobile-first websites and **Directus**-based internal tools at an agency
+- 📱 Side projects in **Flutter** with Supabase, Riverpod and Clean Architecture
+- 🧩 I care about clean component architecture, design systems and turning Figma designs into real UIs
+- 📚 Off-screen: anime, books, games – and two black cats 🐈‍⬛🐈‍⬛
+<br clear="right" />
+### 🛠️ Tech Stack
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,react,astro&theme=dark" alt="Frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,python&theme=dark" alt="Mobile & Backend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vscode&theme=dark" alt="Tools" />
+</p>
+<sub>Also: Directus · Progress ABL · n8n · Riverpod · Widgetbook</sub>
+ 
+### 🚀 Featured Projects
+ 
+| Project | What it is | Stack |
+|---|---|---|
+| 🚲 **[BikeDrop](https://github.com/Anastasia9595/)** | Inventory & goods-receipt app for bike shop staff – stock list, barcode scan, scan cart with completeness check | Flutter · Riverpod · Supabase · Clean Architecture · Atomic Design · Widgetbook · GitHub Actions |
+| 📦 **[Collector App](https://github.com/Anastasia9595/)** | Track your collections – books, manga, board games, figures, games – with a dark, atmospheric card UI | Flutter · Riverpod Codegen · Freezed · Repository Pattern |
+| 🗂️ **[Project Tracker](https://github.com/Anastasia9595/)** | Project management & time tracking for print runs, replacing a legacy FileMaker workflow | Directus · Astro · React · shadcn/ui · Turborepo |
+ 
+<!-- TODO: Links oben auf die echten Repos / Live-Demos setzen -->
+ 
+### 📫 Connect with me
+ 
+<p align="left">
+  <a href="https://www.linkedin.com/in/DEIN-PROFIL/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://DEINE-PORTFOLIO-URL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+</p>
+---
+ 
+<p align="center">
+  <a href="https://github.com/egorthinks/git-bonsai"><img src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f" alt="grown with git-bonsai" /></a>
+</p>
