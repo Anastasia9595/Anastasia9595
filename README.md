@@ -30,16 +30,48 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vscode&theme=dark" alt="Tools" />
 </p>
 <sub>Also: Directus · Progress ABL · n8n · Riverpod · Widgetbook</sub>
+
+
+<h3>👾 My Contributions</h3>
+
+<p align="center">
+  <img src="output/space-shooter.gif" alt="GitHub contributions as a space shooter game" />
+</p>
+
+<h3>🚀 Featured Projects</h3>
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h4>🚲 BikeDrop</h4>
+      <sub>Inventar- & Wareneingangs-App für Fahrradhändler:<br/>Bestandsliste, Barcode-Scan, Scan-Warenkorb</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,githubactions&theme=dark" alt="BikeDrop stack" />
+      <br/><br/>
+      <a href="DEIN-REPO-LINK"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" alt="Code" /></a>
+      <a href="DEINE-DEMO-URL"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white" alt="Live Demo" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>📦 Collector App</h4>
+      <sub>Sammlungen verwalten: Bücher, Manga, Brettspiele,<br/>Figuren – mit dunkler, atmosphärischer UI</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,supabase&theme=dark" alt="Collector App stack" />
+      <br/><br/>
+      <a href="DEIN-REPO-LINK"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" alt="Code" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>🗂️ Project Tracker</h4>
+      <sub>Projektmanagement & Zeiterfassung für Druckstrecken,<br/>Ersatz für einen alten FileMaker-Workflow</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=astro,react,ts,tailwind&theme=dark" alt="Project Tracker stack" />
+      <br/><sub>+ Directus · shadcn/ui · Turborepo</sub>
+      <br/><br/>
+      <a href="DEIN-REPO-LINK"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
  
-### 🚀 Featured Projects
  
-| Project | What it is | Stack |
-|---|---|---|
-| 🚲 **[BikeDrop](https://github.com/Anastasia9595/)** | Inventory & goods-receipt app for bike shop staff – stock list, barcode scan, scan cart with completeness check | Flutter · Riverpod · Supabase · Clean Architecture · Atomic Design · Widgetbook · GitHub Actions |
-| 📦 **[Collector App](https://github.com/Anastasia9595/)** | Track your collections – books, manga, board games, figures, games – with a dark, atmospheric card UI | Flutter · Riverpod Codegen · Freezed · Repository Pattern |
-| 🗂️ **[Project Tracker](https://github.com/Anastasia9595/)** | Project management & time tracking for print runs, replacing a legacy FileMaker workflow | Directus · Astro · React · shadcn/ui · Turborepo |
- 
-<!-- TODO: Links oben auf die echten Repos / Live-Demos setzen -->
  
 ### 📫 Connect with me
  
