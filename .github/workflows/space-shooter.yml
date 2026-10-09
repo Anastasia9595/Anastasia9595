@@ -1,0 +1,19 @@
+name: space-shooter
+on:
+  schedule:
+    - cron: '0 1 * * *'   # täglich 1 Uhr UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 2   # wichtig, sonst klappt das Amend nicht
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'output/space-shooter.gif'
+          strategy: 'random'
