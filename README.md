@@ -44,8 +44,7 @@
 ### 📫 Connect with me
  
 <p align="left">
-  <a href="https://www.linkedin.com/in/DEIN-PROFIL/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://DEINE-PORTFOLIO-URL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/anastasia-osipisen/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 ---
  
