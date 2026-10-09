@@ -12,10 +12,6 @@
 
 <br clear="right" />
 ---
- 
-<img align="right" src="output/bonsai.gif" width="220" alt="my git-bonsai" />
-
-
 
 
 ### 🛠️ Tech Stack
