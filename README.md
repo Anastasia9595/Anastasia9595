@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Anastasia</h1>
-<h3 align="center">Frontend & Mobile Developer from Germany · Angular · Flutter · TypeScript</h3>
- 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Kassel-open_to_remote-2ea44f?style=flat-square" alt="Kassel, open to remote" />
-  <img src="https://img.shields.io/badge/💼_open_to-frontend_&_mobile_roles-2ea44f?style=flat-square" alt="Open to frontend and mobile roles" />
-</p>
+
+<h3>🌱 About me</h3>
+
+<img align="right" src="output/bonsai.gif" width="220" alt="my git-bonsai" />
+
+- 🔭 **Currently:** mobile-first websites and Directus-based internal tools, plus BikeDrop on the side (Flutter + Supabase)
+- 🎯 **Focus:** clean component architecture, design systems and turning Figma designs into real UIs
+- 💬 **Ask me about:** Angular, Flutter, Riverpod, Directus
+- 🤝 **Looking for:** a frontend or mobile role around Kassel or remote
+- 💻 **Background:** Fachinformatikerin für Anwendungsentwicklung (IHK), came into dev through a retraining program and never looked back
+- ⚡ **Fun fact:** two black cats supervise my code reviews 🐈‍⬛🐈‍⬛
+
+<br clear="right" />
 ---
  
 <img align="right" src="output/bonsai.gif" width="220" alt="my git-bonsai" />
 
-### 🌱 About me
- 
-- 💻 **Fachinformatikerin für Anwendungsentwicklung (IHK)** – I came into development through a retraining program and never looked back
-- 🏢 Built logistics web apps for an ERP system (**Angular** frontend, Progress ABL backend)
-- 🎨 Currently building mobile-first websites and **Directus**-based internal tools at an agency
-- 📱 Side projects in **Flutter** with Supabase, Riverpod and Clean Architecture
-- 🧩 I care about clean component architecture, design systems and turning Figma designs into real UIs
-- 📚 Off-screen: anime, books, games – and two black cats 🐈‍⬛🐈‍⬛
-<br clear="right" />
+
 
 
 ### 🛠️ Tech Stack
@@ -78,6 +76,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/anastasia-osipisen/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
 ---
  
 <p align="center">
