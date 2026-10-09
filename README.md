@@ -23,8 +23,6 @@
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vscode&theme=dark" alt="Tools" />
 </p>
-<sub>Also: Directus · Progress ABL · n8n · Riverpod · Widgetbook</sub>
-
 
 <h3>👾 My Contributions</h3>
 
