@@ -8,7 +8,8 @@
 ---
  
 <img align="right" src="output/bonsai.gif" width="220" alt="my git-bonsai" />
-###🌱 About me
+
+### 🌱 About me
  
 - 💻 **Fachinformatikerin für Anwendungsentwicklung (IHK)** – I came into development through a retraining program and never looked back
 - 🏢 Built logistics web apps for an ERP system (**Angular** frontend, Progress ABL backend)
